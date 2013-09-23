@@ -30,11 +30,11 @@ These three arguments can now reside in cells in the excel workbook and be refer
 ### Use Cases
 Let's take the example provided in the `Example.xlsm` workbook. Assume you have revenue data that is presented in the style shown in `sheet1`:    
   
-![data table](http://github.com/distanlo/bestxlformulaever/blob/master/images/data_ss.png)
+![data table](https://raw.github.com/distanlo/bestxlformulaever/master/images/data_ss.png)
   
 Now let's assume that you want to build a summary table of this data by year as seen below:  
   
-![annual table](http://github.com/distanlo/bestxlformulaever/blob/master/images/annual_ss.png)
+![annual table](http://raw.github.com/distanlo/bestxlformulaever/master/images/annual_ss.png)
   
 You can see that simply entering a formula into the 2013 column and copying over to the other years will not work as the spacing between the annual (2013, 2014, 2015, 2016, 2017) values varies throughout the sheet.
   
